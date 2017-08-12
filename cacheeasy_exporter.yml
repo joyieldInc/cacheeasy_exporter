@@ -1,0 +1,9 @@
+bind: :9123
+
+predixy:
+#    - <ip:port> <name>
+#    ...
+      
+redis:
+#    - <ip:port> <name>
+#    ...
